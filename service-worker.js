@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/lift-power/precache-manifest.1eaf1a6de448211f08ec5270b188c15f.js"
+  "/lift-power/precache-manifest.1535d6df4885b7929063e55d5d6af26b.js"
 );
 
 self.addEventListener('message', (event) => {

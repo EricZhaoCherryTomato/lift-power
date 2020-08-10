@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/lift-power/static/css/main.5f361e03.chunk.css",
-    "main.js": "/lift-power/static/js/main.ce465b38.chunk.js",
-    "main.js.map": "/lift-power/static/js/main.ce465b38.chunk.js.map",
+    "main.js": "/lift-power/static/js/main.f08ad0ae.chunk.js",
+    "main.js.map": "/lift-power/static/js/main.f08ad0ae.chunk.js.map",
     "runtime-main.js": "/lift-power/static/js/runtime-main.dd39a13f.js",
     "runtime-main.js.map": "/lift-power/static/js/runtime-main.dd39a13f.js.map",
     "static/js/2.dad2a3fb.chunk.js": "/lift-power/static/js/2.dad2a3fb.chunk.js",
     "static/js/2.dad2a3fb.chunk.js.map": "/lift-power/static/js/2.dad2a3fb.chunk.js.map",
     "index.html": "/lift-power/index.html",
-    "precache-manifest.1eaf1a6de448211f08ec5270b188c15f.js": "/lift-power/precache-manifest.1eaf1a6de448211f08ec5270b188c15f.js",
+    "precache-manifest.1535d6df4885b7929063e55d5d6af26b.js": "/lift-power/precache-manifest.1535d6df4885b7929063e55d5d6af26b.js",
     "service-worker.js": "/lift-power/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/lift-power/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.dad2a3fb.chunk.js.LICENSE.txt": "/lift-power/static/js/2.dad2a3fb.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.dd39a13f.js",
     "static/js/2.dad2a3fb.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.ce465b38.chunk.js"
+    "static/js/main.f08ad0ae.chunk.js"
   ]
 }

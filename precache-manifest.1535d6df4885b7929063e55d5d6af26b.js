@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4cfdcd49fda1eb13ff6e4ce98d72925b",
+    "revision": "b2b34689869d7328a881cc405a82b4b0",
     "url": "/lift-power/index.html"
   },
   {
-    "revision": "399b60c7eb91f6d74558",
+    "revision": "be8eb4e493bd30b7ea7e",
     "url": "/lift-power/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lift-power/static/js/2.dad2a3fb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "399b60c7eb91f6d74558",
-    "url": "/lift-power/static/js/main.ce465b38.chunk.js"
+    "revision": "be8eb4e493bd30b7ea7e",
+    "url": "/lift-power/static/js/main.f08ad0ae.chunk.js"
   },
   {
     "revision": "f7b69c18a4ba5d06e684",
