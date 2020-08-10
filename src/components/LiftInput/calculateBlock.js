@@ -4,7 +4,7 @@ const calculateBlock = (command) => {
     var steps = command.split("");
     var index = 0;
     var isLoaded = false;
-    steps.map(step => {
+    steps.forEach(step => {
         // console.log(step);
         switch (step) {
             case 'P':
